@@ -70,7 +70,7 @@ ul li {
 }
 
 .container {
-  width: 50%;
+  width: 40%;
   margin: auto;
 }
 
@@ -243,9 +243,9 @@ footer li {
   cursor: pointer;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 900px) {
   .container {
-    width: 90%;
+    width: 60%;
   }
   .input-card input {
     width: 60%;
@@ -254,6 +254,6 @@ footer li {
 
 @media screen and (max-width: 450px) {
   .container {
-    width: 100%;
+    width: 90%;
   }
 }
