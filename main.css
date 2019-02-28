@@ -74,6 +74,15 @@ ul li {
   margin: auto;
 }
 
+.billing-info h4 {
+  font-size: 25px;
+  margin: 0;
+}
+
+.billing-info {
+  margin-bottom: 3rem;
+}
+
 main {
   border: #00000020 1px solid;
   border-radius: 5px;
